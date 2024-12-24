@@ -3,6 +3,14 @@ body{
     margin: 0;
     font-family: "Poppins", serif;
 }
+@media(max-width){
+        body{
+        padding: 0;
+        margin: 0;
+        font-family: "Poppins", serif;
+        width: 700px;
+    }
+}
 .header{
     min-height: 100vh;
     width: 100%;
