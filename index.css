@@ -98,10 +98,13 @@ nav .fa{
     display:none;
 }
 /* styles for smaller screen*/
-@media(max-width:800px){
+@media(max-width:700px){
     .text h1{
         font-size: 30px;
         margin-bottom: 20px;
+    }
+    .btn{
+        margin-bottom:20px
     }
     .text{
         width: 100%;
